@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "flights": [
+    { "Airline": A, "FlightNumber": "AA101", "Departure":"Paris","Arrival":"Stockholm","Price":200 },
+    { "Airline": B, "FlightNumber": "BB101", "Departure":"Stockholm","Arrival":"Paris","Price":400 },
+    { "Airline": C, "FlightNumber": "CC101", "Departure":"UAE","Arrival":"Stockholm","Price":300 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
